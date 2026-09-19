@@ -88,16 +88,14 @@ In-silico screening of ethnobotanical compounds against metabolite-sensing GPCRs
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdemolaTolulope&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=ff00e0&text_color=c9d1d9&border_color=00fff2&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdemolaTolulope&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=ff00e0&text_color=c9d1d9&border_color=00fff2&count_private=true" alt="GitHub stats"/>
 <img height="170" src="https://streak-stats.demolab.com/?user=AdemolaTolulope&theme=tokyonight&hide_border=true&background=0d1117&ring=00fff2&fire=ff00e0&currStreakLabel=00fff2" alt="commit streak"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemolaTolulope&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" alt="top languages"/>
-
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdemolaTolulope&bg_color=0d1117&color=00fff2&line=ff00e0&point=ffffff&area=true&area_color=00fff2&hide_border=true" alt="activity graph"/>
-
-<img width="97%" src="https://github-profile-trophy.vercel.app/?username=AdemolaTolulope&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdemolaTolulope&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" alt="top languages"/>
 
 </div>
+
+> *activity-graph & trophy widgets temporarily parked — their public hosts went offline ecosystem-wide (paused deployments). Stats, streak, languages, typing animation & counters above run on live hosts.*
 
 <img width="100%" src="assets/neon-divider.svg"/>
 
