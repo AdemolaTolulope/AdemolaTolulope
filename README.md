@@ -1,122 +1,120 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ademola%20Emmanuel%20Tolulope&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Bioinformatician%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Designer%20%26%20Video%20Editor&descAlignY=58&descSize=18&animation=fadeIn" alt="header"/>
+<img width="100%" src="assets/cyber-banner.png" alt="Ademola Emmanuel Tolulope — Bioinformatician • Full-Stack Developer • Designer & Video Editor"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Merging+Science%2C+Code%2C+and+Creativity.;Computational+biology+%E2%86%92+working+decision+engines.;Interfaces+people+actually+enjoy+using.;Design+that+makes+research+legible.;Building+in+Lagos%2C+for+the+world.+%F0%9F%87%B3%F0%9F%87%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=900&color=00FFF2&center=true&vCenter=true&width=920&lines=%3E+booting_pipeline_...+%5BOK%5D;Merging+Science%2C+Code%2C+and+Creativity.;Genomics+%C3%97+Web+Engineering+%C3%97+Motion+Design;Building+offline-first+decision+engines.;Interfaces+people+actually+enjoy+using.;Deploying+from+Lagos+%F0%9F%87%B3%F0%9F%87%AC+to+the+world.)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Ademola-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-ademola-428796330)
-[![Portfolio](https://img.shields.io/badge/Portfolio-elixhub-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elixhub.hellofigwebsite.com/)
-[![Email](https://img.shields.io/badge/Email-ademmanlincoln07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ademmanlincoln07@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=AdemolaTolulope&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-emmanuel--ademola-00fff2?style=for-the-badge&logo=linkedin&logoColor=001014&labelColor=0d1117)](https://www.linkedin.com/in/emmanuel-ademola-428796330)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-elixhub-ff00e0?style=for-the-badge&logo=google-chrome&logoColor=001014&labelColor=0d1117)](https://elixhub.hellofigwebsite.com/)
+[![Email](https://img.shields.io/badge/EMAIL-contact-0aa6ff?style=for-the-badge&logo=gmail&logoColor=001014&labelColor=0d1117)](mailto:ademmanlincoln07@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=AdemolaTolulope&style=for-the-badge&color=00fff2&label=PROFILE+VIEWS&labelColor=0d1117)
 
 </div>
 
----
+<img width="100%" src="assets/neon-divider.svg"/>
 
-### ⚡ One line
-
-I build at the intersection of **computational biology**, **software engineering**, and **visual storytelling** — genomic pipelines by day, interactive apps and motion graphics by night.
-
-```text
-science  ──▶  code  ──▶  design     (one person, full pipeline)
+```bash
+$ whoami
+> computational biologist with a designer's eye and an engineer's hands
+$ mission --current
+> turning biological complexity into decision engines, interfaces, and visuals
+  that people can actually use — science you can click.
+$ location --status
+> Lagos, Nigeria 🇳🇬  |  studio: Elijah Digitals  |  open_to: research · internships · freelance
 ```
 
----
+<img width="100%" src="assets/neon-divider.svg"/>
 
-### 🚀 Featured work
+### ⚡ FEATURED DEPLOYMENTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 #### 🧬 TETRA-SHIELD AI
-Environmental biotransformation decision intelligence — AMR-aware enzyme prioritization for antibiotic pollution. Validated docking, explainable scoring, fully offline-capable.
+AMR-aware bioremediation decision intelligence — validated docking, explainable scoring, fully offline-capable web engine.
 
-`Python` `FastAPI` `RDKit` `Molecular docking`
-
-[**→ repo**](https://github.com/AdemolaTolulope/tetra-shield-ai)
+`Python` `FastAPI` `RDKit` `Docking` · [**launch →**](https://github.com/AdemolaTolulope/tetra-shield-ai)
 
 </td>
 <td width="50%" valign="top">
 
 #### 🛰️ BIOWATCH AI
-Research-grade biological surveillance & epidemiology monitoring — open-data connectors, anomaly detection, epistemic-honest visualization.
+Research-grade biological surveillance — open-data connectors, anomaly detection, epistemic-honest visualization.
 
-`Python` `Surveillance` `Data engineering`
-
-[**→ repo**](https://github.com/AdemolaTolulope/biowatch-ai)
+`Python` `Epidemiology` `Data eng` · [**launch →**](https://github.com/AdemolaTolulope/biowatch-ai)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 💊 CYP Inhibition Profiler
-16-model XGB/LGBM ensemble for CYP450 inhibition (pIC50), DDI risk & drug-likeness — cyberpunk interactive UI. OpenADMET challenge build.
+#### 💊 CYP INHIBITION PROFILER
+16-model ML ensemble for CYP450 inhibition & DDI risk — cyberpunk interactive UI. OpenADMET challenge build.
 
-`Machine Learning` `Cheminformatics` `XGBoost`
-
-[**→ repo**](https://github.com/AdemolaTolulope/cyp-inhibition-profiler)
+`XGBoost` `Cheminformatics` `ML` · [**launch →**](https://github.com/AdemolaTolulope/cyp-inhibition-profiler)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🌿 GPR41/GPR43 Ethnobotanical Screening
-In-silico screening of ethnobotanical compounds against metabolite-sensing GPCRs — traditional medicine meets structural bioinformatics.
+#### 🌿 GPR41/43 ETHNOBOTANICAL SCREEN
+In-silico screening of ethnobotanical compounds against metabolite-sensing GPCRs — traditional medicine × structural bioinformatics.
 
-`Docking` `Natural products` `GPCR`
-
-[**→ repo**](https://github.com/AdemolaTolulope/gpr41-gpr43-ethnobotanical-screening)
+`Docking` `GPCR` `Natural products` · [**launch →**](https://github.com/AdemolaTolulope/gpr41-gpr43-ethnobotanical-screening)
 
 </td>
 </tr>
 </table>
 
----
+<img width="100%" src="assets/neon-divider.svg"/>
 
-### 🛠️ Arsenal
+### 🛠️ ARSENAL
 
 <div align="center">
 
-**Programming & Data**
+**⟨ programming & data ⟩**
 
-<img src="https://skillicons.dev/icons?i=python,r,javascript,typescript,html,css,fastapi,git,github,linux&perline=10" alt="dev stack"/>
+<img src="https://skillicons.dev/icons?i=python,r,javascript,typescript,html,css,fastapi,git,github,linux&perline=10&theme=dark"/>
 
-**Design & Motion**
+**⟨ design & motion — elijah digitals ⟩**
 
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma&perline=10" alt="creative stack"/>
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma&perline=10&theme=dark"/>
 
 </div>
 
----
+<img width="100%" src="assets/neon-divider.svg"/>
 
-### 📊 Live telemetry
+### 📡 LIVE TELEMETRY
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AdemolaTolulope&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AdemolaTolulope&theme=tokyonight&hide_border=true" alt="streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdemolaTolulope&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=ff00e0&text_color=c9d1d9&border_color=00fff2&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=AdemolaTolulope&theme=tokyonight&hide_border=true&background=0d1117&ring=00fff2&fire=ff00e0&currStreakLabel=00fff2" alt="commit streak"/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdemolaTolulope&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemolaTolulope&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" alt="top languages"/>
+
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdemolaTolulope&bg_color=0d1117&color=00fff2&line=ff00e0&point=ffffff&area=true&area_color=00fff2&hide_border=true" alt="activity graph"/>
+
+<img width="97%" src="https://github-profile-trophy.vercel.app/?username=AdemolaTolulope&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
 
 </div>
 
----
+<img width="100%" src="assets/neon-divider.svg"/>
 
-### 🧭 Currently
+### 🧭 CURRENT HEADING
 
-- 🔬 **Bioinformatics:** computational pipelines for One-Health problems (AMR, drug metabolism, natural products)
-- 💻 **Engineering:** offline-first scientific web apps — evidence first, no black boxes
-- 🎨 **Elijah Digitals:** brand identity, UI/UX concepts, motion graphics & media production
-- 🤝 **Open to:** research collaborations · internships · freelance (bioinformatics / web / media)
+- 🔬 **Bioinformatics** — computational pipelines for One-Health problems (AMR, drug metabolism, natural products)
+- 💻 **Engineering** — offline-first scientific web apps: evidence first, zero black boxes
+- 🎨 **Elijah Digitals** — brand identity, UI/UX concepts, motion graphics & media production
+- 🤝 **Open channel** — research collaborations · internships · freelance (bio / web / media)
 
----
+<img width="100%" src="assets/neon-divider.svg"/>
 
-### 📬 Find me around the web
+### 📬 UPLINK
 
 <div align="center">
 
-| Channel | Link |
+| CHANNEL | COORDINATES |
 |---|---|
 | 💼 LinkedIn | [linkedin.com/in/emmanuel-ademola-428796330](https://www.linkedin.com/in/emmanuel-ademola-428796330) |
 | 🌐 Portfolio | [elixhub.hellofigwebsite.com](https://elixhub.hellofigwebsite.com/) |
@@ -125,12 +123,10 @@ In-silico screening of ethnobotanical compounds against metabolite-sensing GPCRs
 
 </div>
 
----
-
 <div align="center">
 
-*"Merging Science, Code, and Creativity."*
+**`> "Merging Science, Code, and Creativity."_`**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer"/>
+<img width="100%" src="assets/neon-divider.svg"/>
 
 </div>
