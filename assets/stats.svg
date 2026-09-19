@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="150" viewBox="0 0 420 150" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+<rect width="420" height="150" rx="10" fill="#0d1117" stroke="#21262d"/>
+<text x="24" y="36" fill="#00e5d0" font-size="15" font-weight="600">&#9635; GITHUB MODULE &#8212; AdemolaTolulope</text>
+<line x1="24" y1="50" x2="396" y2="50" stroke="#21262d"/><g transform="translate(24,72)"><text fill="#e6edf3" font-size="26" font-weight="700">6</text><text y="26" fill="#8b949e" font-size="12">REPOS</text></g><g transform="translate(119,72)"><text fill="#e6edf3" font-size="26" font-weight="700">0</text><text y="26" fill="#8b949e" font-size="12">STARS</text></g><g transform="translate(214,72)"><text fill="#e6edf3" font-size="26" font-weight="700">0</text><text y="26" fill="#8b949e" font-size="12">FORKS</text></g><g transform="translate(309,72)"><text fill="#e6edf3" font-size="26" font-weight="700">0</text><text y="26" fill="#8b949e" font-size="12">FOLLOWERS</text></g>
+<text x="24" y="136" fill="#8b949e" font-size="11">rendered from live GitHub API &#183; build 2026-09-19</text>
+</svg>

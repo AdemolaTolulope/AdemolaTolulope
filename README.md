@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assets/cyber-banner.png" alt="Ademola Emmanuel Tolulope — Bioinformatician • Full-Stack Developer • Designer & Video Editor"/>
+<img width="100%" src="assets/banner.svg" alt="Ademola Emmanuel Tolulope — Bioinformatician · Full-Stack Developer · Designer & Video Editor"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=900&color=00FFF2&center=true&vCenter=true&width=920&lines=%3E+booting_pipeline_...+%5BOK%5D;Merging+Science%2C+Code%2C+and+Creativity.;Genomics+%C3%97+Web+Engineering+%C3%97+Motion+Design;Building+offline-first+decision+engines.;Interfaces+people+actually+enjoy+using.;Deploying+from+Lagos+%F0%9F%87%B3%F0%9F%87%AC+to+the+world.)](https://git.io/typing-svg)
 
@@ -88,14 +88,13 @@ In-silico screening of ethnobotanical compounds against metabolite-sensing GPCRs
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdemolaTolulope&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=ff00e0&text_color=c9d1d9&border_color=00fff2&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://streak-stats.demolab.com/?user=AdemolaTolulope&theme=tokyonight&hide_border=true&background=0d1117&ring=00fff2&fire=ff00e0&currStreakLabel=00fff2" alt="commit streak"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdemolaTolulope&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" alt="top languages"/>
+<img src="assets/stats.svg" height="150" alt="GitHub module stats"/>
+<img src="https://streak-stats.demolab.com/?user=AdemolaTolulope&theme=tokyonight&hide_border=true&background=0d1117&ring=00fff2&fire=ff00e0&currStreakLabel=00fff2" height="150" alt="commit streak"/>
+<img src="assets/langs.svg" height="150" alt="language mix"/>
 
 </div>
 
-> *activity-graph & trophy widgets temporarily parked — their public hosts went offline ecosystem-wide (paused deployments). Stats, streak, languages, typing animation & counters above run on live hosts.*
+> *Counters & language bars are rendered in-repo from the live GitHub API — no third-party quota, cannot break. Streak, typing animation & visitor counter run on live hosts. (Activity-graph/trophy widgets parked: their public hosts went offline ecosystem-wide.)*
 
 <img width="100%" src="assets/neon-divider.svg"/>
 
